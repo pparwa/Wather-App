@@ -1,0 +1,11 @@
+.walpaper{
+
+    background-image: url('../css/pic.jpg');
+    background-size: cover;
+    
+}
+.loc{
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+}
